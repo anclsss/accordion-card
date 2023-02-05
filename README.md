@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github](https://your-solution-url.com)
-- Live Site URL: [gh-pages](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/anclsss/accordion-card/tree/main)
+- Live Site URL: [gh-pages](https://anclsss.github.io/accordion-card/)
 
 ## My process
 
